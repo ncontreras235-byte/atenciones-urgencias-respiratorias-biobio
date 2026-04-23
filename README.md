@@ -79,7 +79,10 @@ El modelo sigue una arquitectura tipo **estrella/copo de nieve**, con las siguie
 * `ID Causa` — Glosa y código de causa de atención
 * `Semana Epidemiológica` — Año epidemiológico, fecha y número de semana
 
-> \*\*Nota metodológica:\*\* Las tablas de hechos del período 2019–2022 no incluían información directa de servicio de salud. Esta limitación fue resuelta mediante una relación entre la tabla de Establecimientos y las tablas de hechos a través del código de establecimiento, permitiendo inferir el servicio de salud correspondiente a partir de la comuna de cada establecimiento.
+> \*\*Nota metodológica:\*\*
+
+> Las tablas de hechos del período 2019–2022 no incluían información directa de servicio de salud. Esta limitación fue resuelta mediante una relación entre la tabla de Establecimientos y las tablas de hechos a través del código de establecimiento, permitiendo inferir el servicio de salud correspondiente a partir de la comuna de cada establecimiento.
+
 > La dimension de ID Causa tiene el objetivo de estandarizar nombres de enfermedades respiratorias ya que algunas enfermedades no tienen el mismo nombre desde el 2019 hasta el 2025 pero el ID se mantiene a traves de los años.
 
 \---
