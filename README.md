@@ -64,6 +64,7 @@ El modelo de datos fue construido desde cero integrando tablas de hechos anuales
 \---
 
 ## 🧩 Modelo de Datos
+<img width="1007" height="677" alt="modelo" src="https://github.com/user-attachments/assets/7de34ec4-0ba7-47c4-86ce-780e4205f5ce" />
 
 El modelo sigue una arquitectura tipo **estrella/copo de nieve**, con las siguientes tablas:
 
