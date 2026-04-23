@@ -91,6 +91,7 @@ El modelo sigue una arquitectura tipo **estrella/copo de nieve**, con las siguie
 
 * **Power BI Desktop** — Modelo de datos, medidas DAX y visualizaciones
 * **Excel / CSV** — Fuente de datos original (DEIS, Ministerio de Salud de Chile)
+* **Power Query** — Proceso de limpieza y transformación de datos
 
 \---
 
