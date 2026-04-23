@@ -6,9 +6,9 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto presenta un análisis visual de los registros de atenciones de urgencia clasificadas por causas respiratorias en la Región del Biobío. El dashboard fue desarrollado para la **Unidad de Bioestadística del Depto. de Salud Pública y Planificación Sanitaria — SEREMI Región del Biobío**, con última actualización al 10 de febrero de 2026.
+Este proyecto presenta un análisis visual de los registros de atenciones de urgencia clasificadas por causas respiratorias en la Región del Biobío. El dashboard fue desarrollado para la **Unidad de Bioestadística del Depto. de Salud Pública y Planificación Sanitaria — SEREMI Región del Biobío**.
 
-El modelo de datos fue construido desde cero integrando tablas de hechos anuales (2019–2026) con dimensiones de establecimientos, causas de atención y semana epidemiológica, resolviendo la ausencia de información de servicio de salud en los registros históricos (2019–2022) mediante una relación indirecta a través de la comuna y el establecimiento.
+El modelo de datos fue construido desde cero integrando tablas de hechos anuales (2019–2025) con dimensiones de establecimientos, causas de atención y semana epidemiológica, resolviendo la ausencia de información de servicio de salud en los registros históricos (2019–2022) mediante una relación indirecta a través de la comuna y el establecimiento.
 
 \---
 
