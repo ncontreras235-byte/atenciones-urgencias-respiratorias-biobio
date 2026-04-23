@@ -16,23 +16,23 @@ El modelo de datos fue construido desde cero integrando tablas de hechos anuales
 
 ### Portada
 
-!\[Portada](images/01\_portada.png)
+<img width="1670" height="727" alt="portada" src="https://github.com/user-attachments/assets/967775c9-1887-414c-be02-c8118ebbfeca" />
 
 ### Total Atenciones por Causas Respiratorias
 
-!\[Total Causas Respiratorias](images/02\_total\_causas\_respiratorias.png)
+<img width="1130" height="798" alt="pag 1" src="https://github.com/user-attachments/assets/20062d45-c921-4a12-b293-51392170b52b" />
 
 ### Proporción de Hospitalizaciones
 
-!\[Tasa de Hospitalizaciones](images/03\_tasa\_hospitalizaciones.png)
+<img width="1133" height="795" alt="pag 2" src="https://github.com/user-attachments/assets/145869a1-04c5-472c-aeaa-5e38c0d118af" />
 
 ### Comparación por Servicio de Salud
 
-!\[Comparación por Servicio de Salud](images/04\_comparacion\_servicio\_salud.png)
+<img width="992" height="773" alt="pag 3" src="https://github.com/user-attachments/assets/53d707ec-cff5-4a6a-a00d-43e0a7517bf1" />
 
 ### Comparación por Rango de Edad
 
-!\[Comparación por Rango de Edad](images/05\_comparacion\_rango\_edad.png)
+<img width="988" height="777" alt="pag 4" src="https://github.com/user-attachments/assets/ba98d52c-67f9-42bf-876f-16d8f2afdab1" />
 
 \---
 
