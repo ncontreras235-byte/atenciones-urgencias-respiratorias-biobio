@@ -10,6 +10,8 @@ Este proyecto presenta un análisis visual de los registros de atenciones de urg
 
 El modelo de datos fue construido desde cero integrando tablas de hechos anuales (2019–2025) con dimensiones de establecimientos, causas de atención y semana epidemiológica, resolviendo la ausencia de información de servicio de salud en los registros históricos (2019–2022) mediante una relación indirecta a través de la comuna y el establecimiento.
 
+El tablero se actualiza semanalmente de forma semiautomática: basta con descargar la base de datos actualizada del DEIS y actualizar el origen en Power Query para que todo el modelo y las visualizaciones se refresquen automáticamente.
+
 \---
 
 ## 🖼️ Vista Previa del Dashboard
